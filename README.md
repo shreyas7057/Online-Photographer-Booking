@@ -8,15 +8,16 @@
 ![er_diagram](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/07bc0b4e-5eb1-4f00-9561-1c6753dda445)
 
 # ScreenShots Of the Website:
-![Screenshot (1)](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/be633590-ee24-49b6-ac01-cad65eade021)
+![Screenshot (1)](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/225ac92e-209d-46b4-aa59-e027c87de98a)
 
-![Screenshot (2)](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/a612f91b-4fc3-42f2-8b18-39080bf675b7)
+![Screenshot (2)](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/b2fbb739-8027-476f-8153-eedba863e02d)
 
-![Screenshot (3)](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/fb97add0-14a8-4f11-ad25-a1652ec0fd0b)
+![Screenshot (3)](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/fa0d5e3c-ac5a-4916-974f-fe8480668a02)
 
-![Screenshot (4)](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/b872b15c-8be5-4f0a-87e6-99c05f31109e)
+![Screenshot (4)](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/7c996d6e-60f9-4f9a-9284-5f896872a112)
 
-![Screenshot (5)](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/d95191c8-27f3-42de-9f74-0e234ff09df8)
+![Screenshot (5)](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/ba7e667c-efe4-46f6-bc09-ae2cf331e930)
+
 
 ## Models:
   ### Photo:

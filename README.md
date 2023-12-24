@@ -4,6 +4,10 @@
 - Photo
 - User
 
+# ER Diagram
+![er_diagram](https://github.com/shreyas7057/Online-Photographer-Booking/assets/34678255/07bc0b4e-5eb1-4f00-9561-1c6753dda445)
+
+
 ## Models:
   ### Photo:
     - Booking
